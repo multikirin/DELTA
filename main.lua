@@ -17,4 +17,4 @@ end)
 end)
 end
 
-client:run('Bot OTkzNDkwNDkwOTMyNTk2ODA2.GF3tP4.s5GQHH1mZJq514VwCh-TPIYyDjmpp5TmKlNs6c')
+client:run('Bot TOKEN HERE') --keep the Bot part IMPORTANT!!!
